@@ -35,7 +35,7 @@ Good Morning Team,
 
 - Use very simple English.
 
-- Keep the total message under 30 words (excluding "Good Morning Team,").
+- Keep the total message under 10-15 words (excluding "Good Morning Team,").
 
 - Make it suitable for sharing in an office WhatsApp group.
 
